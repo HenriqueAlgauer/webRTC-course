@@ -1,0 +1,11 @@
+websocket VS webRTC 
+
+websocket = real time comunication throgh server. Websocket has to much latency.
+
+
+webRTC = real time comunication between browsers. Data never toches server
+	-> uses UDP
+
+websocket + websocket = :)
+
+you can use websocket to make the first sinalization and then, webRTC takes care
